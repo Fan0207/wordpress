@@ -1,0 +1,12 @@
+2020-07-31T10:21:08+00:00 CRITICAL Cannot redeclare say_hello() (previously declared in /home/kevin/projects/www/b-a-m/wp-content/plugins/test-plugin/test-plugin.php:15) dans /home/kevin/projects/www/b-a-m/wp-content/themes/custom-theme/page-a-propos.php à la ligne 42
+
+2020-07-31T10:21:37+00:00 CRITICAL Cannot redeclare say_hello() (previously declared in /home/kevin/projects/www/b-a-m/wp-content/plugins/test-plugin/test-plugin.php:15) dans /home/kevin/projects/www/b-a-m/wp-content/themes/custom-theme/page-a-propos.php à la ligne 42
+
+2020-07-31T10:21:55+00:00 CRITICAL Cannot redeclare say_hello() (previously declared in /home/kevin/projects/www/b-a-m/wp-content/plugins/test-plugin/test-plugin.php:15) dans /home/kevin/projects/www/b-a-m/wp-content/themes/custom-theme/page-a-propos.php à la ligne 42
+
+2020-07-31T10:23:01+00:00 CRITICAL Cannot redeclare say_hello() (previously declared in /home/kevin/projects/www/b-a-m/wp-content/plugins/test-plugin/test-plugin.php:15) dans /home/kevin/projects/www/b-a-m/wp-content/themes/custom-theme/functions.php à la ligne 33
+
+2020-07-31T10:23:08+00:00 CRITICAL Cannot redeclare say_hello() (previously declared in /home/kevin/projects/www/b-a-m/wp-content/plugins/test-plugin/test-plugin.php:15) dans /home/kevin/projects/www/b-a-m/wp-content/themes/custom-theme/functions.php à la ligne 33
+
+2020-07-31T10:32:26+00:00 CRITICAL syntax error, unexpected '<', expecting end of file dans /home/kevin/projects/www/b-a-m/wp-content/themes/custom-theme/front-page.php à la ligne 181
+

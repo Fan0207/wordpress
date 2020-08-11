@@ -1,0 +1,48 @@
+2020-08-05T13:23:54+00:00 CRITICAL Uncaught Error: Call to undefined function wp_nav_menu1() in /home/kevin/projects/www/b-a-m/wp-content/themes/custom-theme/header.php:34
+Stack trace:
+#0 /home/kevin/projects/www/b-a-m/wp-includes/template.php(723): require_once()
+#1 /home/kevin/projects/www/b-a-m/wp-includes/template.php(672): load_template()
+#2 /home/kevin/projects/www/b-a-m/wp-includes/general-template.php(41): locate_template()
+#3 /home/kevin/projects/www/b-a-m/wp-content/themes/custom-theme/front-page.php(3): get_header()
+#4 /home/kevin/projects/www/b-a-m/wp-includes/template-loader.php(106): include('/home/kevin/pro...')
+#5 /home/kevin/projects/www/b-a-m/wp-blog-header.php(19): require_once('/home/kevin/pro...')
+#6 /home/kevin/projects/www/b-a-m/index.php(17): require('/home/kevin/pro...')
+#7 {main}
+  thrown dans /home/kevin/projects/www/b-a-m/wp-content/themes/custom-theme/header.php à la ligne 34
+
+2020-08-05T13:25:38+00:00 CRITICAL Uncaught Error: Call to undefined function shapely_header_menu() in /home/kevin/projects/www/b-a-m/wp-content/themes/custom-theme/header.php:49
+Stack trace:
+#0 /home/kevin/projects/www/b-a-m/wp-includes/template.php(723): require_once()
+#1 /home/kevin/projects/www/b-a-m/wp-includes/template.php(672): load_template()
+#2 /home/kevin/projects/www/b-a-m/wp-includes/general-template.php(41): locate_template()
+#3 /home/kevin/projects/www/b-a-m/wp-content/themes/custom-theme/front-page.php(3): get_header()
+#4 /home/kevin/projects/www/b-a-m/wp-includes/template-loader.php(106): include('/home/kevin/pro...')
+#5 /home/kevin/projects/www/b-a-m/wp-blog-header.php(19): require_once('/home/kevin/pro...')
+#6 /home/kevin/projects/www/b-a-m/index.php(17): require('/home/kevin/pro...')
+#7 {main}
+  thrown dans /home/kevin/projects/www/b-a-m/wp-content/themes/custom-theme/header.php à la ligne 49
+
+2020-08-05T13:26:07+00:00 CRITICAL Uncaught Error: Call to undefined function theme_header_menu() in /home/kevin/projects/www/b-a-m/wp-content/themes/custom-theme/header.php:49
+Stack trace:
+#0 /home/kevin/projects/www/b-a-m/wp-includes/template.php(723): require_once()
+#1 /home/kevin/projects/www/b-a-m/wp-includes/template.php(672): load_template()
+#2 /home/kevin/projects/www/b-a-m/wp-includes/general-template.php(41): locate_template()
+#3 /home/kevin/projects/www/b-a-m/wp-content/themes/custom-theme/front-page.php(3): get_header()
+#4 /home/kevin/projects/www/b-a-m/wp-includes/template-loader.php(106): include('/home/kevin/pro...')
+#5 /home/kevin/projects/www/b-a-m/wp-blog-header.php(19): require_once('/home/kevin/pro...')
+#6 /home/kevin/projects/www/b-a-m/index.php(17): require('/home/kevin/pro...')
+#7 {main}
+  thrown dans /home/kevin/projects/www/b-a-m/wp-content/themes/custom-theme/header.php à la ligne 49
+
+2020-08-05T13:26:19+00:00 CRITICAL Uncaught Error: Call to undefined function header_menu() in /home/kevin/projects/www/b-a-m/wp-content/themes/custom-theme/header.php:49
+Stack trace:
+#0 /home/kevin/projects/www/b-a-m/wp-includes/template.php(723): require_once()
+#1 /home/kevin/projects/www/b-a-m/wp-includes/template.php(672): load_template()
+#2 /home/kevin/projects/www/b-a-m/wp-includes/general-template.php(41): locate_template()
+#3 /home/kevin/projects/www/b-a-m/wp-content/themes/custom-theme/front-page.php(3): get_header()
+#4 /home/kevin/projects/www/b-a-m/wp-includes/template-loader.php(106): include('/home/kevin/pro...')
+#5 /home/kevin/projects/www/b-a-m/wp-blog-header.php(19): require_once('/home/kevin/pro...')
+#6 /home/kevin/projects/www/b-a-m/index.php(17): require('/home/kevin/pro...')
+#7 {main}
+  thrown dans /home/kevin/projects/www/b-a-m/wp-content/themes/custom-theme/header.php à la ligne 49
+

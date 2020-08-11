@@ -1,0 +1,21 @@
+Aug 10 2020 12:42:44
+{"Number":2,"Message":"fopen(\/Users\/fanny\/Downloads\/wordpress\/wp-content\/themes\/custom-theme\/.git\/objects\/5c\/ef36f820e9e0be8d46131e369bae91e41b16c4): failed to open stream: Permission denied","File":"\/Users\/fanny\/Downloads\/wordpress\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":452}
+
+Aug 10 2020 12:42:44
+{"Number":2,"Message":"fopen(\/Users\/fanny\/Downloads\/wordpress\/wp-content\/themes\/custom-theme\/.git\/objects\/cb\/b0d418a41148e0a2ba5ca43a53e5da4af1952c): failed to open stream: Permission denied","File":"\/Users\/fanny\/Downloads\/wordpress\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":452}
+
+Aug 10 2020 12:42:44
+{"Number":2,"Message":"fopen(\/Users\/fanny\/Downloads\/wordpress\/wp-content\/themes\/custom-theme\/.git\/objects\/1f\/9df2c40b0cddb2110e5d2170806cf5bb861b2d): failed to open stream: Permission denied","File":"\/Users\/fanny\/Downloads\/wordpress\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":452}
+
+Aug 10 2020 12:42:44
+{"Number":2,"Message":"fopen(\/Users\/fanny\/Downloads\/wordpress\/wp-content\/themes\/custom-theme\/.git\/objects\/9e\/861f84f6cbedf751efa61cd2e8ce8500b8bfe6): failed to open stream: Permission denied","File":"\/Users\/fanny\/Downloads\/wordpress\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":452}
+
+Aug 10 2020 12:42:44
+{"Number":2,"Message":"fopen(\/Users\/fanny\/Downloads\/wordpress\/wp-content\/themes\/custom-theme\/.git\/objects\/d5\/c7b0b89b3d46827abedb33be5226d1f8603db5): failed to open stream: Permission denied","File":"\/Users\/fanny\/Downloads\/wordpress\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":452}
+
+Aug 10 2020 12:42:44
+{"Number":2,"Message":"fopen(\/Users\/fanny\/Downloads\/wordpress\/wp-content\/themes\/custom-theme\/.git\/objects\/7f\/1afe39b9d0ab3f56b82c91bcb901bd9b4160fb): failed to open stream: Permission denied","File":"\/Users\/fanny\/Downloads\/wordpress\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":452}
+
+Aug 10 2020 12:42:44
+{"Number":2,"Message":"fopen(\/Users\/fanny\/Downloads\/wordpress\/wp-content\/themes\/custom-theme\/.git\/objects\/9a\/571454b3c678ac00d7e9c44d5c714c1a566d39): failed to open stream: Permission denied","File":"\/Users\/fanny\/Downloads\/wordpress\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":452}
+
